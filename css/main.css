@@ -1,5 +1,26 @@
-.compo{
-    height:250px;
-    width: 250px;
-    object-fit: cover;
+.compo {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
 }
+svg {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+  }
+  svg #PRDG_logo_Horizontal_Color #Circulo---imagotipo {
+    fill: #FF4745;
+  }
+  svg #PRDG_logo_Horizontal_Color #P---imagotipo {
+    fill: #181F2C;
+  }
+  svg #PRDG_logo_Horizontal_Black {
+    fill: black;
+  }
+  svg #PRDG_logo_Horizontal_White {
+    fill: white;
+  }
+  
+  .blackbg {
+    background-color: black;
+  }
