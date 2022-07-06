@@ -11,7 +11,7 @@ Filcoms.forEach((filcom) => {
   );
 });
 let tipofil;
-tipofil = parseInt(prompt(`Tipo de filtrado\n1-Nombre\n2-precio\n3.Salir`));
+tipofil = parseInt(prompt(`Tipo de filtrado\n1-Nombre\n2-precio\n3-Salir`));
 switch (tipofil) {
   case 1:
     let nombrefil = prompt("Palabra que quiere filtrar:");
